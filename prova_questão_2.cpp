@@ -34,5 +34,5 @@ for(B=2; B<N-1;B++)// brasileiro = 0
 if (brasileiro==1)
 		printf("brasileiro");
 	else
-		printf("não");
+		printf("nÃ£o");
 }
